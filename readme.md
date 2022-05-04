@@ -1,9 +1,7 @@
-# Hub TypeScript
+# Hub Typescript
 
-Hub TypeScript is all typescript courses passed myself.
+Hub Typescript is all typescript courses passed and own public projects.
 
-List:
-
-| Name | Platform | Url |
+| Name | Platform | URL |
 | ------ | ------ | ------ |
-| Introduction to TypeScript | Udemy | [Open](https://www.udemy.com/share/101tQE3@QqmyPcs3u9vVOuRhVKbfM8venvNlznUk7rWR8BgrWeWORYhYSz6pTxpfPHWQBS2u/)
+| Introduction to TypeScript | Udemy | [View course detail](https://www.udemy.com/course/typescript/learn/lecture/2709226#overview)
