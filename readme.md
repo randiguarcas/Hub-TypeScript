@@ -6,4 +6,4 @@ List:
 
 | Name | Platform | Url |
 | ------ | ------ | ------ |
-| Introduction to TypeScript | Udemy | [Open](https://www.udemy.com/course/typescript/learn/lecture/2709226#overview)
+| Introduction to TypeScript | Udemy | [Open](https://www.udemy.com/share/101tQE3@QqmyPcs3u9vVOuRhVKbfM8venvNlznUk7rWR8BgrWeWORYhYSz6pTxpfPHWQBS2u/)
