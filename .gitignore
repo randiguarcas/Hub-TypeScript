@@ -1,0 +1,8 @@
+node_modules
+.baseDir.js
+.baseDir.js.map
+.baseDir.ts
+timestamp
+main.ts-*
+helper.ts-*
+javascript/
